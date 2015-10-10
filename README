@@ -1,0 +1,16 @@
+这个是用NDK编译的，纯粹的C程序，能在android 的控制台下运行。
+直接在控制台下定位到这个目录：ndk-build 就可以了.
+
+注释：
+Android.mk,里面写了编译的条件。
+Appliction.mk,里面写了需要编译多个平台。
+参考链接：
+http://blog.csdn.net/ryfdizuo/article/details/28891649
+http://stackoverflow.com/questions/24818902/running-a-native-library-on-android-l-error-only-position-independent-executab
+http://blog.csdn.net/hxdanya/article/details/39371759
+http://www.tuicool.com/articles/FJRb6f6
+
+这里有一个关于Qt实现的，但是我没有成功
+
+
+
